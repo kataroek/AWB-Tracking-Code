@@ -1,0 +1,1370 @@
+[
+  {
+    "awb": "001",
+    "code": "AA",
+    "name": "American Airlines",
+    "url": "https://www.aacargo.com/AACargo/tracking"
+  },
+  {
+    "awb": "005",
+    "code": "CO",
+    "name": "Continental Airlines",
+    "url": "https://booking.unitedcargo.com/skychain/app?service=page/nwp:Trackshipmt"
+  },
+  {
+    "awb": "006",
+    "code": "DL",
+    "name": "Delta Air Lines",
+    "url": "https://www.deltacargo.com/Cargo/#/?selectedId=21"
+  },
+  {
+    "awb": "013",
+    "code": "GY",
+    "name": "Gabon Airlines",
+    "url": "http://www.datacair.com/tracktrace/index.php"
+  },
+  {
+    "awb": "014",
+    "code": "AC",
+    "name": "Air Canada",
+    "url": "http://www.aircanada.com/cargo/en/"
+  },
+  {
+    "awb": "016",
+    "code": "UA",
+    "name": "United Airlines Cargo",
+    "url": "https://booking.unitedcargo.com/skychain/app?service=page/nwp:Trackshipmt"
+  },
+  {
+    "awb": "018",
+    "code": "CP",
+    "name": "Canadian Airlines Int'l",
+    "url": "http://apps.traxon.com/cp018.htm"
+  },
+  {
+    "awb": "020",
+    "code": "LH",
+    "name": "Lufthansa Cargo AG",
+    "url": "http://lufthansa-cargo.com/eservices/etracking"
+  },
+  {
+    "awb": "023",
+    "code": "FX",
+    "name": "Fedex",
+    "url": "https://www.fedex.com/apps/fedextrack/"
+  },
+  {
+    "awb": "027",
+    "code": "AS",
+    "name": "Alaska Airlines",
+    "url": "http://www.alaskaair.com/cargo/"
+  },
+  {
+    "awb": "040",
+    "code": "QC",
+    "name": "Camair-Co",
+    "url": "http://www.camair-co.cm/tracking/"
+  },
+  {
+    "awb": "042",
+    "code": "RG",
+    "name": "VARIG",
+    "url": "http://apps.traxon.com/rg042.htm"
+  },
+  {
+    "awb": "043",
+    "code": "KA",
+    "name": "Dragonair",
+    "url": "https://www.cathaypacificcargo.com/en-us/manageyourshipment/trackyourshipment.aspx"
+  },
+  {
+    "awb": "044",
+    "code": "AR",
+    "name": "Aerolineas Argentinas",
+    "url": "http://www.aerolineas.com.ar/arg/main.asp?idSitio=US&idPagina=186&idIdioma=en"
+  },
+  {
+    "awb": "045",
+    "code": "LA",
+    "name": "LAN Airlines",
+    "url": "http://www.lancargo.com/"
+  },
+  {
+    "awb": "047",
+    "code": "TP",
+    "name": "TAP Air Portugal",
+    "url": "http://www.tapcargo.com/"
+  },
+  {
+    "awb": "048",
+    "code": "CY",
+    "name": "Cyprus Airways",
+    "url": "http://cargoserv.champ.aero/tracking.asp?Carrier=CY&Pfx=048"
+  },
+  {
+    "awb": "050",
+    "code": "OA",
+    "name": "Olympic Airways",
+    "url": "https://www.olympicair.com/en/Info/Cargo"
+  },
+  {
+    "awb": "053",
+    "code": "EI",
+    "name": "Aer Lingus Cargo",
+    "url": "https://www.iagcargo.com/iagcargo/portlet/en/html/601"
+  },
+  {
+    "awb": "055",
+    "code": "AZ",
+    "name": "Alitalia",
+    "url": "http://cargoserv.champ.aero/tracking.asp?Carrier=AZ&Pfx=055"
+  },
+  {
+    "awb": "057",
+    "code": "AF",
+    "name": "Air France",
+    "url": "https://afklcargo.com/WW/en/local/app/tnt/trackntrace.jsp"
+  },
+  {
+    "awb": "061",
+    "code": "HM",
+    "name": "Air Seychelles",
+    "url": "http://cargoserv.champ.aero/tracking.asp?Carrier=HM&Pfx=061"
+  },
+  {
+    "awb": "064",
+    "code": "OK",
+    "name": "Czech Airlines",
+    "url": "http://www.csacargo.cz/en/products-service/track-and-trace"
+  },
+  {
+    "awb": "065",
+    "code": "SV",
+    "name": "Saudi Arabian Airlines",
+    "url": "http://saudiacargo.com/"
+  },
+  {
+    "awb": "070",
+    "code": "RB",
+    "name": "Syrian Arab Airlines",
+    "url": ""
+  },
+  {
+    "awb": "071",
+    "code": "ET",
+    "name": "Ethiopian Airlines",
+    "url": "http://www.ethiopianairlines.com/corporate/group/cargo/e-cargo/track"
+  },
+  {
+    "awb": "072",
+    "code": "GF",
+    "name": "Gulf Air",
+    "url": "http://cargoserv.champ.aero/tracking.asp?Carrier=GF&Pfx=072"
+  },
+  {
+    "awb": "074",
+    "code": "KL",
+    "name": "KLM Cargo",
+    "url": "https://afklcargo.com/WW/en/local/app/tnt/trackntrace.jsp"
+  },
+  {
+    "awb": "075",
+    "code": "IB",
+    "name": "Iberia",
+    "url": "https://www.iagcargo.com/"
+  },
+  {
+    "awb": "076",
+    "code": "ME",
+    "name": "Middle East Airlines",
+    "url": "https://www.mea.com.lb/english/Plan-and-Book/Cargo"
+  },
+  {
+    "awb": "077",
+    "code": "MS",
+    "name": "Egyptair",
+    "url": "http://cargoserv.champ.aero/tracking.asp?Carrier=MS&Pfx=077"
+  },
+  {
+    "awb": "079",
+    "code": "PR",
+    "name": "Philippine Airlines",
+    "url": "http://cargoserv.champ.aero/tracking.asp?Carrier=PR&Pfx=079"
+  },
+  {
+    "awb": "080",
+    "code": "LO",
+    "name": "LOT Polish Airlines",
+    "url": "http://cargoserv.champ.aero/tracking.asp?Carrier=LO&Pfx=080"
+  },
+  {
+    "awb": "081",
+    "code": "QF",
+    "name": "Qantas Airways",
+    "url": "http://www.qantas.com.au/freight/online/otracking.html"
+  },
+  {
+    "awb": "082",
+    "code": "SN",
+    "name": "Brussels Airlines",
+    "url": "http://www.brusselsairlines.com/en-be/b2b/info-and-services/cargo/track-and-trace.aspx"
+  },
+  {
+    "awb": "083",
+    "code": "SA",
+    "name": "South African Airways",
+    "url": "http://www.flysaa.com/at/en/Saa_Cargo_new/flysaa_cargo_track_a_shipment.html"
+  },
+  {
+    "awb": "086",
+    "code": "NZ",
+    "name": "Air New Zealand",
+    "url": "http://www.airnewzealand.co.nz/international-cargo"
+  },
+  {
+    "awb": "096",
+    "code": "IR",
+    "name": "Iran Air",
+    "url": "http://cargoserv.champ.aero/tracking.asp?Carrier=IR&Pfx=096"
+  },
+  {
+    "awb": "098",
+    "code": "AI",
+    "name": "Air India",
+    "url": "http://www.airindia.com/cargo-tracking.htm"
+  },
+  {
+    "awb": 105,
+    "code": "AY",
+    "name": "Finnair",
+    "url": "https://prdcgoay.mercator.com/skychain/app?service=page/nwp:Trackshipmt"
+  },
+  {
+    "awb": 106,
+    "code": "BW",
+    "name": "Caribbean Airlines",
+    "url": "http://cargoserv.champ.aero/tracking.asp?Carrier=BW&Pfx=106"
+  },
+  {
+    "awb": 108,
+    "code": "FI",
+    "name": "Icelandair",
+    "url": "http://cargoserv.champ.aero/tracking.asp?Carrier=FI&Pfx=108"
+  },
+  {
+    "awb": 111,
+    "code": "UP",
+    "name": "Bahamasair",
+    "url": "http://www.bahamasaircargo.com/track"
+  },
+  {
+    "awb": 112,
+    "code": "CK",
+    "name": "China Cargo Airlines",
+    "url": "http://cargo2.ceair.com/mu/"
+  },
+  {
+    "awb": 114,
+    "code": "LY",
+    "name": "EL AL",
+    "url": "http://www.elal.co.il/ELAL/English/ELALCargo/"
+  },
+  {
+    "awb": 115,
+    "code": "JU",
+    "name": "Air Serbia",
+    "url": "http://cargoserv.champ.aero/tracking.asp?Carrier=JU&Pfx=115"
+  },
+  {
+    "awb": 117,
+    "code": "SK",
+    "name": "SAS-Scandinavian Airlines System",
+    "url": "http://www.sascargo.com/?NavID=90"
+  },
+  {
+    "awb": 118,
+    "code": "DT",
+    "name": "TAAG Angola Airlines",
+    "url": "http://cargoserv.champ.aero/tracking.asp?Carrier=DT&Pfx=118"
+  },
+  {
+    "awb": 124,
+    "code": "AH",
+    "name": "Air Algerie",
+    "url": "http://cargoserv.champ.aero/tracking.asp?Carrier=AH&Pfx=124"
+  },
+  {
+    "awb": 125,
+    "code": "BA",
+    "name": "British Airways",
+    "url": "https://beta.iagcargo.com/en/home"
+  },
+  {
+    "awb": 126,
+    "code": "GA",
+    "name": "Garuda Indonesia",
+    "url": "http://cargo.garuda-indonesia.com/"
+  },
+  {
+    "awb": 127,
+    "code": "G3",
+    "name": "Gol Airlines",
+    "url": "http://g3cs.uesc.com/"
+  },
+  {
+    "awb": 128,
+    "code": "UO",
+    "name": "Hongkong Express",
+    "url": ""
+  },
+  {
+    "awb": 129,
+    "code": "MP",
+    "name": "Martinair Cargo",
+    "url": "https://afklcargo.com/WW/en/local/app/tnt/trackntrace.jsp"
+  },
+  {
+    "awb": 131,
+    "code": "JL",
+    "name": "Japan Airlines",
+    "url": "http://www.jal.co.jp/en/jalcargo/"
+  },
+  {
+    "awb": 133,
+    "code": "LR",
+    "name": "LACSA Airlines of Costa Rica",
+    "url": "http://www.aviancacargo.com/"
+  },
+  {
+    "awb": 134,
+    "code": "AV",
+    "name": "Avianca Cargo",
+    "url": "http://www.aviancacargo.com/"
+  },
+  {
+    "awb": 136,
+    "code": "CU",
+    "name": "Cubana de Aviacion",
+    "url": "https://www.cargocubana.com/cubanacargo/portlet/en/html/601"
+  },
+  {
+    "awb": 137,
+    "code": "T8",
+    "name": "MCS Aerocarga de Mexico",
+    "url": "http://www.mcs-aerocarga.com/trackingMam.php?Idioma=Ing"
+  },
+  {
+    "awb": 139,
+    "code": "AM",
+    "name": "Aeromexico Cargo",
+    "url": "http://www.skyteam.com/en/cargo/track-shipment/"
+  },
+  {
+    "awb": 140,
+    "code": "LI",
+    "name": "LIAT Airlines",
+    "url": "http://www.liat.com/navSource.html?page_id=159"
+  },
+  {
+    "awb": 141,
+    "code": "FZ",
+    "name": "flydubai cargo",
+    "url": "http://prdcgofz.mercator.com/skychain/app?service=page/nwp:Trackshipmt"
+  },
+  {
+    "awb": 145,
+    "code": "UC",
+    "name": "LAN Chile Cargo",
+    "url": "http://www.lancargo.com/"
+  },
+  {
+    "awb": 147,
+    "code": "AT",
+    "name": "Royal Air Maroc",
+    "url": "http://cargoserv.champ.aero/trace/AT/trace.asp"
+  },
+  {
+    "awb": 157,
+    "code": "QR",
+    "name": "Qatar Airways",
+    "url": "http://www.qrcargo.com/"
+  },
+  {
+    "awb": 160,
+    "code": "CX",
+    "name": "Cathay Pacific Airways",
+    "url": "http://www.cathaypacificcargo.com/usrapps/eServices/track/track.aspx"
+  },
+  {
+    "awb": 165,
+    "code": "JP",
+    "name": "Adria Airways",
+    "url": "https://www.adria.si/en/services/cargo/shipment-status"
+  },
+  {
+    "awb": 167,
+    "code": "QM",
+    "name": "Air Malawi",
+    "url": "http://web.ana-aviation.com/"
+  },
+  {
+    "awb": 172,
+    "code": "CV",
+    "name": "Cargolux Airlines",
+    "url": "https://cvtnt.champ.aero/trackntrace"
+  },
+  {
+    "awb": 173,
+    "code": "HA",
+    "name": "Hawaiian Airlines",
+    "url": "https://hawaiian.smartkargo.com/"
+  },
+  {
+    "awb": 176,
+    "code": "EK",
+    "name": "Emirates",
+    "url": "http://www.skycargo.com/"
+  },
+  {
+    "awb": 180,
+    "code": "KE",
+    "name": "Korean Air",
+    "url": "http://cargo.koreanair.com/"
+  },
+  {
+    "awb": 183,
+    "code": "RG",
+    "name": "VARIG",
+    "url": "http://apps.traxon.com/rg042.htm"
+  },
+  {
+    "awb": 199,
+    "code": "TU",
+    "name": "Tunisair",
+    "url": "http://ecsgroup.aero/Tracking-ecs/"
+  },
+  {
+    "awb": 201,
+    "code": "JM",
+    "name": "Air Jamaica",
+    "url": "http://cargoserv.champ.aero/tracking.asp?Carrier=JM&Pfx=201"
+  },
+  {
+    "awb": 202,
+    "code": "TA",
+    "name": "TACA",
+    "url": "http://www.aviancacargo.com/"
+  },
+  {
+    "awb": 203,
+    "code": "5J",
+    "name": "Cebu Air",
+    "url": "https://www.cebupacificair.com/pages/plan-trip/Cargo/cebcargo-contact-us"
+  },
+  {
+    "awb": 205,
+    "code": "NH",
+    "name": "ANA All Nippon Cargo",
+    "url": "http://www.anacargo.jp/en/int/index.html"
+  },
+  {
+    "awb": 214,
+    "code": "PK",
+    "name": "Pakistan Int'l Airlines",
+    "url": "http://cargoserv.champ.aero/tracking.asp?Carrier=PK&Pfx=214"
+  },
+  {
+    "awb": 217,
+    "code": "TG",
+    "name": "Thai Airways",
+    "url": "http://chorus.thaicargo.com/skychain/app?service=page/nwp:Trackshipmt"
+  },
+  {
+    "awb": 229,
+    "code": "KU",
+    "name": "Kuwait Airways",
+    "url": "http://cargoserv.champ.aero/tracking.asp?Carrier=KU&Pfx=229"
+  },
+  {
+    "awb": 230,
+    "code": "CM",
+    "name": "Copa Airlines Cargo",
+    "url": "http://www.copacargo.com/"
+  },
+  {
+    "awb": 232,
+    "code": "MH",
+    "name": "Malaysian Airline System",
+    "url": "http://www.maskargo.com/"
+  },
+  {
+    "awb": 234,
+    "code": "JD",
+    "name": "Japan Air System",
+    "url": "http://cargoserv.champ.aero/tracking.asp?Carrier=JD&Pfx=234"
+  },
+  {
+    "awb": 235,
+    "code": "TK",
+    "name": "Turkish Airlines",
+    "url": "http://www.turkishcargo.com.tr/en/e-cargo/cargo-tracking"
+  },
+  {
+    "awb": 239,
+    "code": "MK",
+    "name": "Air Mauritius",
+    "url": "http://www.airmauritius.com/cargotracking.htm"
+  },
+  {
+    "awb": 244,
+    "code": "TN",
+    "name": "Air Tahiti Nui",
+    "url": "http://www.airtahitinui.co.nz/flightsched/flightstatus.asp"
+  },
+  {
+    "awb": 250,
+    "code": "HY",
+    "name": "Uzbekistan Airways",
+    "url": "http://cargoserv.champ.aero/trace/HY/trace.asp"
+  },
+  {
+    "awb": 254,
+    "code": "0J",
+    "name": "Jet Club",
+    "url": "http://www.strike.aero/"
+  },
+  {
+    "awb": 257,
+    "code": "OS",
+    "name": "Austrian Cargo",
+    "url": ""
+  },
+  {
+    "awb": 258,
+    "code": "MD",
+    "name": "Air Madagascar",
+    "url": "http://www.datacair.com/tracktrace/index.php"
+  },
+  {
+    "awb": 262,
+    "code": "U6",
+    "name": "Ural Airlines Cargo",
+    "url": "http://u6-cargo.com/"
+  },
+  {
+    "awb": 265,
+    "code": "EF",
+    "name": "Far Eastern Air Transport",
+    "url": "http://cargoserv.champ.aero/tracking.asp?Carrier=EF&Pfx=265"
+  },
+  {
+    "awb": 270,
+    "code": "TL",
+    "name": "Trans Mediterranean Airways",
+    "url": "http://cargoserv.champ.aero/tracking.asp?Carrier=TL&Pfx=270"
+  },
+  {
+    "awb": 272,
+    "code": "K4",
+    "name": "Kalitta Air",
+    "url": "http://www.kalittacargo.com/"
+  },
+  {
+    "awb": 281,
+    "code": "RO",
+    "name": "Tarom",
+    "url": "http://cargoserv.champ.aero/tracking.asp?Carrier=RO&Pfx=281"
+  },
+  {
+    "awb": 288,
+    "code": "LD",
+    "name": "Air Hong Kong",
+    "url": "http://www.hactl.com/en-US/Home.aspx"
+  },
+  {
+    "awb": 297,
+    "code": "CI",
+    "name": "China Airlines",
+    "url": "https://cargo.china-airlines.com/ccnetv2/content/manage/ShipmentTracking.aspx"
+  },
+  {
+    "awb": 301,
+    "code": "5S",
+    "name": "Global Aviation and Services",
+    "url": "http://www.global-aviationgroup.com/"
+  },
+  {
+    "awb": 302,
+    "code": "OO",
+    "name": "Sky West Airlines",
+    "url": "https://www.deltacargo.com/"
+  },
+  {
+    "awb": 307,
+    "code": "WE",
+    "name": "Centurion Air Cargo",
+    "url": "http://www.centurioncargo.com/en/awb-tracking-ws.php"
+  },
+  {
+    "awb": 312,
+    "code": "6E",
+    "name": "IndiGo CarGo",
+    "url": "https://cargo.goindigo.in/"
+  },
+  {
+    "awb": 318,
+    "code": "CC",
+    "name": "Air Atlanta Icelandic",
+    "url": "http://cargoserv.champ.aero/tracking.asp?Carrier=S3&Pfx=318"
+  },
+  {
+    "awb": 321,
+    "code": "QP",
+    "name": "Starlight Airlines",
+    "url": "http://www.starlightairline.com/"
+  },
+  {
+    "awb": 324,
+    "code": "SC",
+    "name": "Shandong Airlines",
+    "url": "http://cargo.shandongair.com.cn/sc/public/index.aspx?strCul=en"
+  },
+  {
+    "awb": 328,
+    "code": "DY",
+    "name": "Norwegian Cargo",
+    "url": "http://www.norwegiancargo.com/"
+  },
+  {
+    "awb": 331,
+    "code": "S4",
+    "name": "SATA International",
+    "url": "http://www.sata.pt/en/other-services/cargo-tracking"
+  },
+  {
+    "awb": 345,
+    "code": "NC",
+    "name": "Northern Air Cargo",
+    "url": "http://www.northernaircargo.com/"
+  },
+  {
+    "awb": 354,
+    "code": "CO",
+    "name": "Cobaltair",
+    "url": "http://www.aiacargo.com/"
+  },
+  {
+    "awb": 355,
+    "code": "E7",
+    "name": "Estafeta Carga Aerea",
+    "url": "http://www.estafeta.com/services/cargo/air-cargo/tracking.aspx"
+  },
+  {
+    "awb": 356,
+    "code": "C8",
+    "name": "Cargolux Italia",
+    "url": "https://cvtnt.champ.aero/trackntrace"
+  },
+  {
+    "awb": 358,
+    "code": "GW",
+    "name": "Skygreece Airlines",
+    "url": "http://skygreececargo.com/"
+  },
+  {
+    "awb": 369,
+    "code": "5Y",
+    "name": "Atlas Air",
+    "url": "http://www.atlasair.com/aa/explore.html"
+  },
+  {
+    "awb": 370,
+    "code": "TL",
+    "name": "TMA Trans Mediterranean Airways",
+    "url": "http://cargoserv.champ.aero/tracking.asp?Carrier=TL&Pfx=370"
+  },
+  {
+    "awb": 378,
+    "code": "KX",
+    "name": "Cayman Airways",
+    "url": "http://www.newcaymancargo.com/"
+  },
+  {
+    "awb": 390,
+    "code": "A3",
+    "name": "Aegean Airlines",
+    "url": "http://en.aegeanair.com/travel-information/cargo-services/"
+  },
+  {
+    "awb": 403,
+    "code": "PO",
+    "name": "Polar Air Cargo",
+    "url": "http://www.polaraircargo.com/"
+  },
+  {
+    "awb": 406,
+    "code": "5X",
+    "name": "UPS Air Cargo",
+    "url": "https://www.ups.com/aircargo/using/services/actracking/actracking.html"
+  },
+  {
+    "awb": 416,
+    "code": "N8",
+    "name": "National Air Cargo",
+    "url": "http://www.nationalaircargo.com/"
+  },
+  {
+    "awb": 417,
+    "code": "E6",
+    "name": "Bringer Air Cargo",
+    "url": "http://www.bringeraircargo.com/tracking/"
+  },
+  {
+    "awb": 421,
+    "code": "S7",
+    "name": "Siberia Airlines",
+    "url": "http://cargoserv.champ.aero/tracking.asp?Carrier=S7&Pfx=421"
+  },
+  {
+    "awb": 423,
+    "code": "ER",
+    "name": "DHL Aviation/DHL Airways",
+    "url": "https://aviationcargo.dhl.com/"
+  },
+  {
+    "awb": 459,
+    "code": "WB",
+    "name": "RwandAir",
+    "url": "https://www.rwandair.com/?page=cargo"
+  },
+  {
+    "awb": 462,
+    "code": "XL",
+    "name": "LAN Ecuador",
+    "url": "http://www.lancargo.com/"
+  },
+  {
+    "awb": 463,
+    "code": "ZP",
+    "name": "Silk Way Airlines",
+    "url": "http://cargoserv.champ.aero/tracking.asp?Carrier=ZP&Pfx=463"
+  },
+  {
+    "awb": 465,
+    "code": "KC",
+    "name": "Air Astana",
+    "url": ""
+  },
+  {
+    "awb": 473,
+    "code": "SE",
+    "name": "XL Airways France",
+    "url": "http://www.wfs.aero/tracking/"
+  },
+  {
+    "awb": 479,
+    "code": "ZH",
+    "name": "Shenzhen Airlines",
+    "url": "http://cargo.shenzhenair.com/"
+  },
+  {
+    "awb": 485,
+    "code": "8V",
+    "name": "Astral Aviation",
+    "url": "http://web.ana-aviation.com/"
+  },
+  {
+    "awb": 489,
+    "code": "W8",
+    "name": "Cargojet Airways",
+    "url": "https://apps.cargojet.com/ords/f?p=102:857"
+  },
+  {
+    "awb": 501,
+    "code": "7L",
+    "name": "Silk Way West Airlines",
+    "url": "http://www.silkwaywest.com/"
+  },
+  {
+    "awb": 507,
+    "code": "SU",
+    "name": "Aeroflot",
+    "url": "http://cargoserv.champ.aero/tracking.asp?Carrier=SU&Pfx=507"
+  },
+  {
+    "awb": 508,
+    "code": "QJ",
+    "name": "Jet Airways Inc.",
+    "url": "http://jet-airways.com/index.php"
+  },
+  {
+    "awb": 512,
+    "code": "RJ",
+    "name": "Royal Jordanian",
+    "url": "http://rj-cargo.com/EssentialTools/TrackTrace/tabid/94/Default.aspx"
+  },
+  {
+    "awb": 514,
+    "code": "G9",
+    "name": "Air Arabia",
+    "url": "http://cargo.airarabia.com/Track.aspx"
+  },
+  {
+    "awb": 519,
+    "code": "NO",
+    "name": "Niger Air Cargo",
+    "url": "http://ecsgroup.aero/Tracking-ecs/"
+  },
+  {
+    "awb": 525,
+    "code": "B7",
+    "name": "Uni Airways",
+    "url": "http://www.brcargo.com/ec_web/Default.aspx"
+  },
+  {
+    "awb": 526,
+    "code": "WN",
+    "name": "Southwest Airlines",
+    "url": "http://www.swacargo.com/swacargo/trackingTrackShipment.htm"
+  },
+  {
+    "awb": 530,
+    "code": "T0",
+    "name": "Trans American Airways / TACA Peru",
+    "url": "http://www.aviancacargo.com/"
+  },
+  {
+    "awb": 535,
+    "code": "3J",
+    "name": "Jubba Airways",
+    "url": "http://www.jubbaairways.com/cargo-flights/track-shipment"
+  },
+  {
+    "awb": 539,
+    "code": "TH",
+    "name": "Raya Airways",
+    "url": "http://rayaairways.com/"
+  },
+  {
+    "awb": 549,
+    "code": "M3",
+    "name": "ABSA Cargo Airline",
+    "url": "http://www.absacargo.com.br/latam/en/"
+  },
+  {
+    "awb": 555,
+    "code": "SU",
+    "name": "Aeroflot",
+    "url": "http://www.skyteam.com/en/cargo/"
+  },
+  {
+    "awb": 566,
+    "code": "PS",
+    "name": "Ukraine Int'l Airlines",
+    "url": "http://cargoserv.champ.aero/tracking.asp?Carrier=PS&Pfx=566"
+  },
+  {
+    "awb": 572,
+    "code": "9U",
+    "name": "Air Moldova",
+    "url": "http://www.airmoldova.md/cargo-check-en/"
+  },
+  {
+    "awb": 574,
+    "code": "4W",
+    "name": "Allied Air",
+    "url": "http://www.ana-aviation.com/track-trace"
+  },
+  {
+    "awb": 575,
+    "code": "7C",
+    "name": "Coyne Airways",
+    "url": "http://www.coyneair.com/"
+  },
+  {
+    "awb": 576,
+    "code": "KY",
+    "name": "Skylease Cargo",
+    "url": "http://www.skyleasecargo.com/en/index.php"
+  },
+  {
+    "awb": 577,
+    "code": "AD",
+    "name": "Azul Cargo",
+    "url": "http://www.azulcargo.com.br//Rastreio.aspx"
+  },
+  {
+    "awb": 580,
+    "code": "RU",
+    "name": "AirBridge Cargo",
+    "url": "http://www.airbridgecargo.com/en/tracking/"
+  },
+  {
+    "awb": 589,
+    "code": "9W",
+    "name": "Jet Airways",
+    "url": "http://cargo.jetairways.com/cargoview/"
+  },
+  {
+    "awb": 603,
+    "code": "UL",
+    "name": "SriLankan Cargo",
+    "url": "http://www.srilankanskychain.aero/skychain/app?service=page/nwp:Trackshipmt"
+  },
+  {
+    "awb": 607,
+    "code": "EY",
+    "name": "ETIHAD Airways",
+    "url": "http://www.etihadcargo.com/"
+  },
+  {
+    "awb": 615,
+    "code": "QY",
+    "name": "DHL Aviation / European Air Transport",
+    "url": "https://aviationcargo.dhl.com/"
+  },
+  {
+    "awb": 618,
+    "code": "SQ",
+    "name": "Singapore Airlines",
+    "url": "http://www.siacargo.com/ccn/ShipmentTrack.aspx"
+  },
+  {
+    "awb": 623,
+    "code": "FB",
+    "name": "Bulgaria Air",
+    "url": "http://www.datacair.com/tracktrace/index.php"
+  },
+  {
+    "awb": 624,
+    "code": "PC",
+    "name": "Pegasus Cargo",
+    "url": "http://www.pegasuscargo.com/en/default.aspx"
+  },
+  {
+    "awb": 629,
+    "code": "MI",
+    "name": "Silk Air",
+    "url": "http://www.siacargo.com/"
+  },
+  {
+    "awb": 631,
+    "code": "GL",
+    "name": "Air Greenland",
+    "url": "https://www.airgreenland.com/cargo/tracking-and-calculators/tracking"
+  },
+  {
+    "awb": 635,
+    "code": "IY",
+    "name": "Yemenia Yemen Airways",
+    "url": "http://ebooking.champ.aero/trace/IY/trace.asp"
+  },
+  {
+    "awb": 643,
+    "code": "KM",
+    "name": "Air Malta",
+    "url": "http://cargoserv.champ.aero/tracking.asp?Carrier=KM&Pfx=643"
+  },
+  {
+    "awb": 644,
+    "code": "4S",
+    "name": "Solar Cargo",
+    "url": "http://sc.cargolink.aero/Cargolinktracking/"
+  },
+  {
+    "awb": 649,
+    "code": "TS",
+    "name": "Air Transat",
+    "url": "http://www.airtransatcargo.com/en"
+  },
+  {
+    "awb": 656,
+    "code": "PX",
+    "name": "Air Niugini",
+    "url": "http://prdcgopx.mercator.com/skychain/app?service=page/nwp:Trackshipmt"
+  },
+  {
+    "awb": 657,
+    "code": "BT",
+    "name": "Air Baltic",
+    "url": "https://www.airbaltic.com/en/order-air-freight-shipment"
+  },
+  {
+    "awb": 658,
+    "code": "M8",
+    "name": "Airmax Cargo",
+    "url": "http://www.airmaxcargo.com.pe/AirsisWeb/"
+  },
+  {
+    "awb": 672,
+    "code": "BI",
+    "name": "Royal Brunei Airlines",
+    "url": "http://www.tt-bicargo.com/"
+  },
+  {
+    "awb": 673,
+    "code": "N2",
+    "name": "TMA Trans Mediterranean Airways",
+    "url": "http://cargoserv.champ.aero/tracking.asp?Carrier=TL&Pfx=673"
+  },
+  {
+    "awb": 675,
+    "code": "NX",
+    "name": "Air Macau",
+    "url": "http://122.119.147.60/nx/PublicEng/index.aspx"
+  },
+  {
+    "awb": 687,
+    "code": "KH",
+    "name": "Aloha Air Cargo",
+    "url": "http://www.alohaaircargo.com/shipment-tracking/"
+  },
+  {
+    "awb": 695,
+    "code": "BR",
+    "name": "Eva Airways",
+    "url": "http://www.brcargo.com/ec_web/"
+  },
+  {
+    "awb": 699,
+    "code": "UW",
+    "name": "Uni-Top Airlines",
+    "url": "http://www.uni-top.com:8081/CargoTracking/queryWaybill.aspx"
+  },
+  {
+    "awb": 700,
+    "code": "5C",
+    "name": "CAL Cargo Air Lines",
+    "url": "http://www.cal-cargo.com/"
+  },
+  {
+    "awb": 706,
+    "code": "KQ",
+    "name": "Kenya Airways",
+    "url": "http://www.kqcargo.com/"
+  },
+  {
+    "awb": 711,
+    "code": "MR",
+    "name": "Movie Reviews",
+    "url": "http://www.moviereviewblog.net/"
+  },
+  {
+    "awb": 716,
+    "code": "MB",
+    "name": "MNG Airlines",
+    "url": "http://www.mngairlines.com/ENG/Homepage.aspx"
+  },
+  {
+    "awb": 724,
+    "code": "LX",
+    "name": "Swiss",
+    "url": "http://www.swissworldcargo.com/"
+  },
+  {
+    "awb": 725,
+    "code": "W3",
+    "name": "Arik Air",
+    "url": "http://www.euro-cargo.com/Tracking/?awb_carrier=725"
+  },
+  {
+    "awb": 729,
+    "code": "QT",
+    "name": "Tampa Airlines",
+    "url": "http://www.aviancacargo.com/"
+  },
+  {
+    "awb": 731,
+    "code": "MF",
+    "name": "XiamenAir",
+    "url": "http://ecargo.xiamenair.com/Pindex.aspx"
+  },
+  {
+    "awb": 737,
+    "code": "SP",
+    "name": "SATA Air Acores",
+    "url": "http://www.sata.pt/en/other-services/cargo-tracking"
+  },
+  {
+    "awb": 738,
+    "code": "VN",
+    "name": "Vietnam Airlines",
+    "url": "http://cargoserv.champ.aero/tracking.asp?Carrier=VN&Pfx=738"
+  },
+  {
+    "awb": 745,
+    "code": "AB",
+    "name": "Air Berlin",
+    "url": "http://www.leisurecargo.com/"
+  },
+  {
+    "awb": 745,
+    "code": "AB",
+    "name": "LTU Leisure Cargo",
+    "url": "http://www.leisurecargo.com/"
+  },
+  {
+    "awb": 745,
+    "code": "AB",
+    "name": "Thomson Airways",
+    "url": "http://www.leisurecargo.com/"
+  },
+  {
+    "awb": 754,
+    "code": "TB",
+    "name": "Jetairfly",
+    "url": "http://web.ana-aviation.com/"
+  },
+  {
+    "awb": 756,
+    "code": "3V",
+    "name": "TNT Airways",
+    "url": "http://www.tntliege.com/"
+  },
+  {
+    "awb": 757,
+    "code": "Z3",
+    "name": "AV Cargo",
+    "url": "http://cargoserv.champ.aero/tracking.asp?Carrier=AV&Pfx=757"
+  },
+  {
+    "awb": 771,
+    "code": "J2",
+    "name": "Azerbaijan Airlines",
+    "url": "http://cargoserv.champ.aero/tracking.asp?Carrier=J2&Pfx=771"
+  },
+  {
+    "awb": 774,
+    "code": "FM",
+    "name": "Shanghai Airlines",
+    "url": "http://cargo2.ceair.com/mu/"
+  },
+  {
+    "awb": 781,
+    "code": "MU",
+    "name": "China Eastern Airlines",
+    "url": "http://cargo2.ceair.com/mu/"
+  },
+  {
+    "awb": 784,
+    "code": "CZ",
+    "name": "China Southern Airlines",
+    "url": "http://tang.csair.com/EN/WebFace/Tang.WebFace.Cargo/AgentAwbBrower.aspx?lan=en-us"
+  },
+  {
+    "awb": 790,
+    "code": "1A",
+    "name": "Leaderjet",
+    "url": "http://ts.leaderjet.com/cargolinktracking/index.htm"
+  },
+  {
+    "awb": 803,
+    "code": "AE",
+    "name": "Mandarin Airlines",
+    "url": "http://www.mandarin-airlines.com/cargo_new/index.htm"
+  },
+  {
+    "awb": 805,
+    "code": "4X",
+    "name": "Mercury Americas",
+    "url": "https://www.mercuryamericas.com/tracking.html"
+  },
+  {
+    "awb": 807,
+    "code": "AK",
+    "name": "AirAsia Berhad",
+    "url": "http://cargo.airasia.com/"
+  },
+  {
+    "awb": 810,
+    "code": "M6",
+    "name": "Amerijet International",
+    "url": "https://www.amerijet.com/"
+  },
+  {
+    "awb": 817,
+    "code": "S6",
+    "name": "SAC South American Airways",
+    "url": "http://www.southamericanairways.com/tracking_summary.asp"
+  },
+  {
+    "awb": 827,
+    "code": "R4",
+    "name": "RUS Aviation",
+    "url": "http://www.rusaviation.com/#e&tracking&"
+  },
+  {
+    "awb": 829,
+    "code": "PG",
+    "name": "Bangkok Airways",
+    "url": "https://www.bangkokflightservices.com/home/cargo-services-tools/track-trace/"
+  },
+  {
+    "awb": 831,
+    "code": "OU",
+    "name": "Croatia Airlines",
+    "url": "http://www.croatiaairlines.com/Additional-services/cargo/Our-service"
+  },
+  {
+    "awb": 832,
+    "code": "GB",
+    "name": "ABX Air",
+    "url": "http://www.stratair.net/Tools/Tracking.aspx"
+  },
+  {
+    "awb": 838,
+    "code": "WS",
+    "name": "Westjet Cargo",
+    "url": "https://cargo.westjet.com/Tracking.aspx?Culture=EN"
+  },
+  {
+    "awb": 843,
+    "code": "D7",
+    "name": "AirAsia",
+    "url": "http://cargo.airasia.com/"
+  },
+  {
+    "awb": 851,
+    "code": "N8",
+    "name": "Hong Kong Airlines",
+    "url": "https://www.hkaircargo.com/"
+  },
+  {
+    "awb": 865,
+    "code": "MY",
+    "name": "MASAir",
+    "url": "http://www.masair.com/"
+  },
+  {
+    "awb": 870,
+    "code": "VV",
+    "name": "Aerosvit",
+    "url": "http://cargoserv.champ.aero/tracking.asp?Carrier=VV&Pfx=870"
+  },
+  {
+    "awb": 871,
+    "code": "Y8",
+    "name": "Yangtze River Express Airlines",
+    "url": "http://cargoitran.yzr.com.cn/SearchFlight/cargotracking.aspx"
+  },
+  {
+    "awb": 873,
+    "code": "6R",
+    "name": "AeroUnion",
+    "url": "http://www.aerounion.com.mx/eng/tracking/"
+  },
+  {
+    "awb": 876,
+    "code": "3U",
+    "name": "Sichuan Airlines",
+    "url": "http://cargo.sichuanair.com:8000/EN/WebFace/Tang.WebFace.Cargo/AgentAwbBrower.aspx"
+  },
+  {
+    "awb": 880,
+    "code": "HU",
+    "name": "Hainan Airlines",
+    "url": "http://www.hnacargo.com/Portal2/AwbSearch.aspx"
+  },
+  {
+    "awb": 881,
+    "code": "AB",
+    "name": "LTU Leisure Cargo",
+    "url": "https://www.leisurecargo.com/e-services/tracking/"
+  },
+  {
+    "awb": 901,
+    "code": "B1",
+    "name": "TAB Transportes Aereos Bolivianos",
+    "url": "http://www.tabairlines.com/tracking.htm"
+  },
+  {
+    "awb": 907,
+    "code": "QN",
+    "name": "Air Armenia",
+    "url": "http://www.kales.com/de-en/kaltrack"
+  },
+  {
+    "awb": 910,
+    "code": "WY",
+    "name": "Oman Air",
+    "url": "https://omanair.smartkargo.com/"
+  },
+  {
+    "awb": 923,
+    "code": "SS",
+    "name": "Corsair",
+    "url": "http://ecsgroup.aero/Tracking-ecs/"
+  },
+  {
+    "awb": 932,
+    "code": "VS",
+    "name": "Virgin Atlantic",
+    "url": "http://cargo.virgin-atlantic.com/content/cargo/gb/en/index.html"
+  },
+  {
+    "awb": 933,
+    "code": "KZ",
+    "name": "Nippon Cargo Airlines",
+    "url": "http://www.nca.aero/e/index.html"
+  },
+  {
+    "awb": 946,
+    "code": "V4",
+    "name": "Vensecar Internacional",
+    "url": "https://aviationcargo.dhl.com/aviationcargo/"
+  },
+  {
+    "awb": 957,
+    "code": "JJ",
+    "name": "TAM Brazilian Airlines",
+    "url": "http://www.tamcargo.com.br/vgn/v/index.jsp?vgnextoid=151b0943ede32310VgnVCM1000009508020aRCRD"
+  },
+  {
+    "awb": 958,
+    "code": "7I",
+    "name": "Insel Air Cargo",
+    "url": "http://www.inselaircargo.com/Tracking.2561"
+  },
+  {
+    "awb": 960,
+    "code": "OV",
+    "name": "Estonian Air",
+    "url": "http://www.tradevision.net/appl/fsr.asp?Owner=RES-ELL"
+  },
+  {
+    "awb": 988,
+    "code": "OZ",
+    "name": "Asiana Airlines",
+    "url": "http://www.asianacargo.com/En"
+  },
+  {
+    "awb": 992,
+    "code": "D5",
+    "name": "DHL Aero Expreso",
+    "url": "https://aviationcargo.dhl.com/"
+  },
+  {
+    "awb": 994,
+    "code": "KJ",
+    "name": "Air Incheon",
+    "url": "http://www.air-incheon.com/FCT/FCT001.asp"
+  },
+  {
+    "awb": 996,
+    "code": "UX",
+    "name": "Air Europa Cargo",
+    "url": "http://cargo.air-europa.com/ferreret/in/WebPantallaPrincipal.html"
+  },
+  {
+    "awb": 997,
+    "code": "BG",
+    "name": "Biman Bangladesh",
+    "url": "http://cargoserv.champ.aero/tracking.asp?Carrier=BG&Pfx=997"
+  },
+  {
+    "awb": 999,
+    "code": "CA",
+    "name": "Air China",
+    "url": "http://www.airchinacargo.com/en/"
+  }
+]
