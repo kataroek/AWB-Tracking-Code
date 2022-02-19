@@ -1,0 +1,229 @@
+awb,code,name,url
+001,AA,American Airlines,https://www.aacargo.com/AACargo/tracking
+005,CO,Continental Airlines,https://booking.unitedcargo.com/skychain/app?service=page/nwp:Trackshipmt
+006,DL,Delta Air Lines,https://www.deltacargo.com/Cargo/#/?selectedId=21
+013,GY,Gabon Airlines,http://www.datacair.com/tracktrace/index.php
+014,AC,Air Canada,http://www.aircanada.com/cargo/en/
+016,UA,United Airlines Cargo,https://booking.unitedcargo.com/skychain/app?service=page/nwp:Trackshipmt
+018,CP,Canadian Airlines Int'l,http://apps.traxon.com/cp018.htm
+020,LH,Lufthansa Cargo AG,http://lufthansa-cargo.com/eservices/etracking
+023,FX,Fedex,https://www.fedex.com/apps/fedextrack/
+027,AS,Alaska Airlines,http://www.alaskaair.com/cargo/
+040,QC,Camair-Co,http://www.camair-co.cm/tracking/
+042,RG,VARIG,http://apps.traxon.com/rg042.htm
+043,KA,Dragonair,https://www.cathaypacificcargo.com/en-us/manageyourshipment/trackyourshipment.aspx
+044,AR,Aerolineas Argentinas,http://www.aerolineas.com.ar/arg/main.asp?idSitio=US&idPagina=186&idIdioma=en
+045,LA,LAN Airlines,http://www.lancargo.com/
+047,TP,TAP Air Portugal,http://www.tapcargo.com/
+048,CY,Cyprus Airways,http://cargoserv.champ.aero/tracking.asp?Carrier=CY&Pfx=048
+050,OA,Olympic Airways,https://www.olympicair.com/en/Info/Cargo
+053,EI,Aer Lingus Cargo,https://www.iagcargo.com/iagcargo/portlet/en/html/601
+055,AZ,Alitalia,http://cargoserv.champ.aero/tracking.asp?Carrier=AZ&Pfx=055
+057,AF,Air France,https://afklcargo.com/WW/en/local/app/tnt/trackntrace.jsp
+061,HM,Air Seychelles,http://cargoserv.champ.aero/tracking.asp?Carrier=HM&Pfx=061
+064,OK,Czech Airlines,http://www.csacargo.cz/en/products-service/track-and-trace
+065,SV,Saudi Arabian Airlines,http://saudiacargo.com/
+070,RB,Syrian Arab Airlines,
+071,ET,Ethiopian Airlines,http://www.ethiopianairlines.com/corporate/group/cargo/e-cargo/track
+072,GF,Gulf Air,http://cargoserv.champ.aero/tracking.asp?Carrier=GF&Pfx=072
+074,KL,KLM Cargo,https://afklcargo.com/WW/en/local/app/tnt/trackntrace.jsp
+075,IB,Iberia,https://www.iagcargo.com/
+076,ME,Middle East Airlines,https://www.mea.com.lb/english/Plan-and-Book/Cargo
+077,MS,Egyptair,http://cargoserv.champ.aero/tracking.asp?Carrier=MS&Pfx=077
+079,PR,Philippine Airlines,http://cargoserv.champ.aero/tracking.asp?Carrier=PR&Pfx=079
+080,LO,LOT Polish Airlines,http://cargoserv.champ.aero/tracking.asp?Carrier=LO&Pfx=080
+081,QF,Qantas Airways,http://www.qantas.com.au/freight/online/otracking.html
+082,SN,Brussels Airlines,http://www.brusselsairlines.com/en-be/b2b/info-and-services/cargo/track-and-trace.aspx
+083,SA,South African Airways,http://www.flysaa.com/at/en/Saa_Cargo_new/flysaa_cargo_track_a_shipment.html
+086,NZ,Air New Zealand,http://www.airnewzealand.co.nz/international-cargo
+096,IR,Iran Air,http://cargoserv.champ.aero/tracking.asp?Carrier=IR&Pfx=096
+098,AI,Air India,http://www.airindia.com/cargo-tracking.htm
+105,AY,Finnair,https://prdcgoay.mercator.com/skychain/app?service=page/nwp:Trackshipmt
+106,BW,Caribbean Airlines,http://cargoserv.champ.aero/tracking.asp?Carrier=BW&Pfx=106
+108,FI,Icelandair,http://cargoserv.champ.aero/tracking.asp?Carrier=FI&Pfx=108
+111,UP,Bahamasair,http://www.bahamasaircargo.com/track
+112,CK,China Cargo Airlines,http://cargo2.ceair.com/mu/
+114,LY,EL AL,http://www.elal.co.il/ELAL/English/ELALCargo/
+115,JU,Air Serbia,http://cargoserv.champ.aero/tracking.asp?Carrier=JU&Pfx=115
+117,SK,SAS-Scandinavian Airlines System,http://www.sascargo.com/?NavID=90
+118,DT,TAAG Angola Airlines,http://cargoserv.champ.aero/tracking.asp?Carrier=DT&Pfx=118
+124,AH,Air Algerie,http://cargoserv.champ.aero/tracking.asp?Carrier=AH&Pfx=124
+125,BA,British Airways,https://beta.iagcargo.com/en/home
+126,GA,Garuda Indonesia,http://cargo.garuda-indonesia.com/
+127,G3,Gol Airlines,http://g3cs.uesc.com/
+128,UO,Hongkong Express,
+129,MP,Martinair Cargo,https://afklcargo.com/WW/en/local/app/tnt/trackntrace.jsp
+131,JL,Japan Airlines,http://www.jal.co.jp/en/jalcargo/
+133,LR,LACSA Airlines of Costa Rica,http://www.aviancacargo.com/
+134,AV,Avianca Cargo,http://www.aviancacargo.com/
+136,CU,Cubana de Aviacion,https://www.cargocubana.com/cubanacargo/portlet/en/html/601
+137,T8,MCS Aerocarga de Mexico,http://www.mcs-aerocarga.com/trackingMam.php?Idioma=Ing
+139,AM,Aeromexico Cargo,http://www.skyteam.com/en/cargo/track-shipment/
+140,LI,LIAT Airlines,http://www.liat.com/navSource.html?page_id=159
+141,FZ,flydubai cargo,http://prdcgofz.mercator.com/skychain/app?service=page/nwp:Trackshipmt
+145,UC,LAN Chile Cargo,http://www.lancargo.com/
+147,AT,Royal Air Maroc,http://cargoserv.champ.aero/trace/AT/trace.asp
+157,QR,Qatar Airways,http://www.qrcargo.com/
+160,CX,Cathay Pacific Airways,http://www.cathaypacificcargo.com/usrapps/eServices/track/track.aspx
+165,JP,Adria Airways,https://www.adria.si/en/services/cargo/shipment-status
+167,QM,Air Malawi,http://web.ana-aviation.com/
+172,CV,Cargolux Airlines,https://cvtnt.champ.aero/trackntrace
+173,HA,Hawaiian Airlines,https://hawaiian.smartkargo.com/
+176,EK,Emirates,http://www.skycargo.com/
+180,KE,Korean Air,http://cargo.koreanair.com/
+183,RG,VARIG,http://apps.traxon.com/rg042.htm
+199,TU,Tunisair,http://ecsgroup.aero/Tracking-ecs/
+201,JM,Air Jamaica,http://cargoserv.champ.aero/tracking.asp?Carrier=JM&Pfx=201
+202,TA,TACA,http://www.aviancacargo.com/
+203,5J,Cebu Air,https://www.cebupacificair.com/pages/plan-trip/Cargo/cebcargo-contact-us
+205,NH,ANA All Nippon Cargo,http://www.anacargo.jp/en/int/index.html
+214,PK,Pakistan Int'l Airlines,http://cargoserv.champ.aero/tracking.asp?Carrier=PK&Pfx=214
+217,TG,Thai Airways,http://chorus.thaicargo.com/skychain/app?service=page/nwp:Trackshipmt
+229,KU,Kuwait Airways,http://cargoserv.champ.aero/tracking.asp?Carrier=KU&Pfx=229
+230,CM,Copa Airlines Cargo,http://www.copacargo.com/
+232,MH,Malaysian Airline System,http://www.maskargo.com/
+234,JD,Japan Air System,http://cargoserv.champ.aero/tracking.asp?Carrier=JD&Pfx=234
+235,TK,Turkish Airlines,http://www.turkishcargo.com.tr/en/e-cargo/cargo-tracking
+239,MK,Air Mauritius,http://www.airmauritius.com/cargotracking.htm
+244,TN,Air Tahiti Nui,http://www.airtahitinui.co.nz/flightsched/flightstatus.asp
+250,HY,Uzbekistan Airways,http://cargoserv.champ.aero/trace/HY/trace.asp
+254,0J,Jet Club,http://www.strike.aero/
+257,OS,Austrian Cargo,
+258,MD,Air Madagascar,http://www.datacair.com/tracktrace/index.php
+262,U6,Ural Airlines Cargo,http://u6-cargo.com/
+265,EF,Far Eastern Air Transport,http://cargoserv.champ.aero/tracking.asp?Carrier=EF&Pfx=265
+270,TL,Trans Mediterranean Airways,http://cargoserv.champ.aero/tracking.asp?Carrier=TL&Pfx=270
+272,K4,Kalitta Air,http://www.kalittacargo.com/
+281,RO,Tarom,http://cargoserv.champ.aero/tracking.asp?Carrier=RO&Pfx=281
+288,LD,Air Hong Kong,http://www.hactl.com/en-US/Home.aspx
+297,CI,China Airlines,https://cargo.china-airlines.com/ccnetv2/content/manage/ShipmentTracking.aspx
+301,5S,Global Aviation and Services,http://www.global-aviationgroup.com/
+302,OO,Sky West Airlines,https://www.deltacargo.com/
+307,WE,Centurion Air Cargo,http://www.centurioncargo.com/en/awb-tracking-ws.php
+312,6E,IndiGo CarGo,https://cargo.goindigo.in/
+318,CC,Air Atlanta Icelandic,http://cargoserv.champ.aero/tracking.asp?Carrier=S3&Pfx=318
+321,QP,Starlight Airlines,http://www.starlightairline.com/
+324,SC,Shandong Airlines,http://cargo.shandongair.com.cn/sc/public/index.aspx?strCul=en
+328,DY,Norwegian Cargo,http://www.norwegiancargo.com/
+331,S4,SATA International,http://www.sata.pt/en/other-services/cargo-tracking
+345,NC,Northern Air Cargo,http://www.northernaircargo.com/
+354,CO,Cobaltair,http://www.aiacargo.com/
+355,E7,Estafeta Carga Aerea,http://www.estafeta.com/services/cargo/air-cargo/tracking.aspx
+356,C8,Cargolux Italia,https://cvtnt.champ.aero/trackntrace
+358,GW,Skygreece Airlines,http://skygreececargo.com/
+369,5Y,Atlas Air,http://www.atlasair.com/aa/explore.html
+370,TL,TMA Trans Mediterranean Airways,http://cargoserv.champ.aero/tracking.asp?Carrier=TL&Pfx=370
+378,KX,Cayman Airways,http://www.newcaymancargo.com/
+390,A3,Aegean Airlines,http://en.aegeanair.com/travel-information/cargo-services/
+403,PO,Polar Air Cargo,http://www.polaraircargo.com/
+406,5X,UPS Air Cargo,https://www.ups.com/aircargo/using/services/actracking/actracking.html
+416,N8,National Air Cargo,http://www.nationalaircargo.com/
+417,E6,Bringer Air Cargo,http://www.bringeraircargo.com/tracking/
+421,S7,Siberia Airlines,http://cargoserv.champ.aero/tracking.asp?Carrier=S7&Pfx=421
+423,ER,DHL Aviation/DHL Airways,https://aviationcargo.dhl.com/
+459,WB,RwandAir,https://www.rwandair.com/?page=cargo
+462,XL,LAN Ecuador,http://www.lancargo.com/
+463,ZP,Silk Way Airlines,http://cargoserv.champ.aero/tracking.asp?Carrier=ZP&Pfx=463
+465,KC,Air Astana,
+473,SE,XL Airways France,http://www.wfs.aero/tracking/
+479,ZH,Shenzhen Airlines,http://cargo.shenzhenair.com/
+485,8V,Astral Aviation,http://web.ana-aviation.com/
+489,W8,Cargojet Airways,https://apps.cargojet.com/ords/f?p=102:857
+501,7L,Silk Way West Airlines,http://www.silkwaywest.com/
+507,SU,Aeroflot,http://cargoserv.champ.aero/tracking.asp?Carrier=SU&Pfx=507
+508,QJ,Jet Airways Inc.,http://jet-airways.com/index.php
+512,RJ,Royal Jordanian,http://rj-cargo.com/EssentialTools/TrackTrace/tabid/94/Default.aspx
+514,G9,Air Arabia,http://cargo.airarabia.com/Track.aspx
+519,NO,Niger Air Cargo,http://ecsgroup.aero/Tracking-ecs/
+525,B7,Uni Airways,http://www.brcargo.com/ec_web/Default.aspx
+526,WN,Southwest Airlines,http://www.swacargo.com/swacargo/trackingTrackShipment.htm
+530,T0,Trans American Airways / TACA Peru,http://www.aviancacargo.com/
+535,3J,Jubba Airways,http://www.jubbaairways.com/cargo-flights/track-shipment
+539,TH,Raya Airways,http://rayaairways.com/
+549,M3,ABSA Cargo Airline,http://www.absacargo.com.br/latam/en/
+555,SU,Aeroflot,http://www.skyteam.com/en/cargo/
+566,PS,Ukraine Int'l Airlines,http://cargoserv.champ.aero/tracking.asp?Carrier=PS&Pfx=566
+572,9U,Air Moldova,http://www.airmoldova.md/cargo-check-en/
+574,4W,Allied Air,http://www.ana-aviation.com/track-trace
+575,7C,Coyne Airways,http://www.coyneair.com/
+576,KY,Skylease Cargo,http://www.skyleasecargo.com/en/index.php
+577,AD,Azul Cargo,http://www.azulcargo.com.br//Rastreio.aspx
+580,RU,AirBridge Cargo,http://www.airbridgecargo.com/en/tracking/
+589,9W,Jet Airways,http://cargo.jetairways.com/cargoview/
+603,UL,SriLankan Cargo,http://www.srilankanskychain.aero/skychain/app?service=page/nwp:Trackshipmt
+607,EY,ETIHAD Airways,http://www.etihadcargo.com/
+615,QY,DHL Aviation / European Air Transport,https://aviationcargo.dhl.com/
+618,SQ,Singapore Airlines,http://www.siacargo.com/ccn/ShipmentTrack.aspx
+623,FB,Bulgaria Air,http://www.datacair.com/tracktrace/index.php
+624,PC,Pegasus Cargo,http://www.pegasuscargo.com/en/default.aspx
+629,MI,Silk Air,http://www.siacargo.com/
+631,GL,Air Greenland,https://www.airgreenland.com/cargo/tracking-and-calculators/tracking
+635,IY,Yemenia Yemen Airways,http://ebooking.champ.aero/trace/IY/trace.asp
+643,KM,Air Malta,http://cargoserv.champ.aero/tracking.asp?Carrier=KM&Pfx=643
+644,4S,Solar Cargo,http://sc.cargolink.aero/Cargolinktracking/
+649,TS,Air Transat,http://www.airtransatcargo.com/en
+656,PX,Air Niugini,http://prdcgopx.mercator.com/skychain/app?service=page/nwp:Trackshipmt
+657,BT,Air Baltic,https://www.airbaltic.com/en/order-air-freight-shipment
+658,M8,Airmax Cargo,http://www.airmaxcargo.com.pe/AirsisWeb/
+672,BI,Royal Brunei Airlines,http://www.tt-bicargo.com/
+673,N2,TMA Trans Mediterranean Airways,http://cargoserv.champ.aero/tracking.asp?Carrier=TL&Pfx=673
+675,NX,Air Macau,http://122.119.147.60/nx/PublicEng/index.aspx
+687,KH,Aloha Air Cargo,http://www.alohaaircargo.com/shipment-tracking/
+695,BR,Eva Airways,http://www.brcargo.com/ec_web/
+699,UW,Uni-Top Airlines,http://www.uni-top.com:8081/CargoTracking/queryWaybill.aspx
+700,5C,CAL Cargo Air Lines,http://www.cal-cargo.com/
+706,KQ,Kenya Airways,http://www.kqcargo.com/
+711,MR,Movie Reviews,http://www.moviereviewblog.net/
+716,MB,MNG Airlines,http://www.mngairlines.com/ENG/Homepage.aspx
+724,LX,Swiss,http://www.swissworldcargo.com/
+725,W3,Arik Air,http://www.euro-cargo.com/Tracking/?awb_carrier=725
+729,QT,Tampa Airlines,http://www.aviancacargo.com/
+731,MF,XiamenAir,http://ecargo.xiamenair.com/Pindex.aspx
+737,SP,SATA Air Acores,http://www.sata.pt/en/other-services/cargo-tracking
+738,VN,Vietnam Airlines,http://cargoserv.champ.aero/tracking.asp?Carrier=VN&Pfx=738
+745,AB,Air Berlin,http://www.leisurecargo.com/
+745,AB,LTU Leisure Cargo,http://www.leisurecargo.com/
+745,AB,Thomson Airways,http://www.leisurecargo.com/
+754,TB,Jetairfly,http://web.ana-aviation.com/
+756,3V,TNT Airways,http://www.tntliege.com/
+757,Z3,AV Cargo,http://cargoserv.champ.aero/tracking.asp?Carrier=AV&Pfx=757
+771,J2,Azerbaijan Airlines,http://cargoserv.champ.aero/tracking.asp?Carrier=J2&Pfx=771
+774,FM,Shanghai Airlines,http://cargo2.ceair.com/mu/
+781,MU,China Eastern Airlines,http://cargo2.ceair.com/mu/
+784,CZ,China Southern Airlines,http://tang.csair.com/EN/WebFace/Tang.WebFace.Cargo/AgentAwbBrower.aspx?lan=en-us
+790,1A,Leaderjet,http://ts.leaderjet.com/cargolinktracking/index.htm
+803,AE,Mandarin Airlines,http://www.mandarin-airlines.com/cargo_new/index.htm
+805,4X,Mercury Americas,https://www.mercuryamericas.com/tracking.html
+807,AK,AirAsia Berhad,http://cargo.airasia.com/
+810,M6,Amerijet International,https://www.amerijet.com/
+817,S6,SAC South American Airways,http://www.southamericanairways.com/tracking_summary.asp
+827,R4,RUS Aviation,http://www.rusaviation.com/#e&tracking&
+829,PG,Bangkok Airways,https://www.bangkokflightservices.com/home/cargo-services-tools/track-trace/
+831,OU,Croatia Airlines,http://www.croatiaairlines.com/Additional-services/cargo/Our-service
+832,GB,ABX Air,http://www.stratair.net/Tools/Tracking.aspx
+838,WS,Westjet Cargo,https://cargo.westjet.com/Tracking.aspx?Culture=EN
+843,D7,AirAsia,http://cargo.airasia.com/
+851,N8,Hong Kong Airlines,https://www.hkaircargo.com/
+865,MY,MASAir,http://www.masair.com/
+870,VV,Aerosvit,http://cargoserv.champ.aero/tracking.asp?Carrier=VV&Pfx=870
+871,Y8,Yangtze River Express Airlines,http://cargoitran.yzr.com.cn/SearchFlight/cargotracking.aspx
+873,6R,AeroUnion,http://www.aerounion.com.mx/eng/tracking/
+876,3U,Sichuan Airlines,http://cargo.sichuanair.com:8000/EN/WebFace/Tang.WebFace.Cargo/AgentAwbBrower.aspx
+880,HU,Hainan Airlines,http://www.hnacargo.com/Portal2/AwbSearch.aspx
+881,AB,LTU Leisure Cargo,https://www.leisurecargo.com/e-services/tracking/
+901,B1,TAB Transportes Aereos Bolivianos,http://www.tabairlines.com/tracking.htm
+907,QN,Air Armenia,http://www.kales.com/de-en/kaltrack
+910,WY,Oman Air,https://omanair.smartkargo.com/
+923,SS,Corsair,http://ecsgroup.aero/Tracking-ecs/
+932,VS,Virgin Atlantic,http://cargo.virgin-atlantic.com/content/cargo/gb/en/index.html
+933,KZ,Nippon Cargo Airlines,http://www.nca.aero/e/index.html
+946,V4,Vensecar Internacional,https://aviationcargo.dhl.com/aviationcargo/
+957,JJ,TAM Brazilian Airlines,http://www.tamcargo.com.br/vgn/v/index.jsp?vgnextoid=151b0943ede32310VgnVCM1000009508020aRCRD
+958,7I,Insel Air Cargo,http://www.inselaircargo.com/Tracking.2561
+960,OV,Estonian Air,http://www.tradevision.net/appl/fsr.asp?Owner=RES-ELL
+988,OZ,Asiana Airlines,http://www.asianacargo.com/En
+992,D5,DHL Aero Expreso,https://aviationcargo.dhl.com/
+994,KJ,Air Incheon,http://www.air-incheon.com/FCT/FCT001.asp
+996,UX,Air Europa Cargo,http://cargo.air-europa.com/ferreret/in/WebPantallaPrincipal.html
+997,BG,Biman Bangladesh,http://cargoserv.champ.aero/tracking.asp?Carrier=BG&Pfx=997
+999,CA,Air China,http://www.airchinacargo.com/en/
